@@ -1,0 +1,6 @@
+Difference between 32bits and 64 bits Operating System
+A 32-bit system can access 2^32 memory addresses, i.e., 4 GB of RAM or physical memory;
+A 64-bit system can access 2^64 memory addresses, i.e., lot  more than 4GB
+The 64-bit operating system can make full use of available system resources compared to a 32-bit system.
+More software's are written to leverage the benefit of a 64-bit operating system fully.
+Using 64-bit, users can do various things in multitasking at the same time.
