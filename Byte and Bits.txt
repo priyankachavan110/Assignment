@@ -1,0 +1,2 @@
+what maximum value, a byte can hold?
+255
