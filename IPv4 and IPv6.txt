@@ -1,0 +1,12 @@
+IPv4 has a 32-bit address length
+IPv6 has a 128-bit address length
+IPv4 Supports Manual and DHCP address configuration
+IPv6 supports Auto and renumbering address configuration1
+Address representation of IPv4 is in decimal
+Address Representation of IPv6 is in hexadecimal
+In IPv4 checksum field is available
+In IPv6 checksum field is not available
+IPv4 can be converted to IPv6
+Not all IPv6 can be converted to IPv4
+In IPv4 Packet flow identification is not available
+In IPv6 packet flow identification are Available and uses the flow label field in the header
