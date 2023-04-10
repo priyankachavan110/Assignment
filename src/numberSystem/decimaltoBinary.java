@@ -4,6 +4,7 @@ public class decimaltoBinary {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
 		System.out.println(Integer.toBinaryString(20));
 		System.out.println(Integer.toBinaryString(39));
 		System.out.println(Integer.toBinaryString(49));
