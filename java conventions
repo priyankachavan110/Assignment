@@ -1,0 +1,15 @@
+for package name- all small letters
+for Class name- Hungarian convention
+for variable/Method- camal case conven0tion
+
+
+class naming conventions
+1. never plural
+2. never start with integer or number
+3. starts with capital letter
+4. can be start with _$
+
+
+Package in Java is a mechanism to encapsulate a group of classes, sub packages and interfaces.
+
+

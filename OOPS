@@ -1,0 +1,25 @@
+Encapsulation: Binding code and data together in single unit.can be achived by access modifier.
+
+Inheritance: Inheritance means acquries properties from one class to onother class.
+
+Polymorphism: refers to the ability of class to perform different implementation of method,depending on type of object that passed to it.
+
+Abstraction:hiding the implementation and showing functionality to user.
+
+
+
+Encapsulation: Binding code and data together in single unit.
+
+                       can be achived by access modifier.
+
+                       Solves the problems at implementation level
+
+
+
+
+
+Abstraction:hiding the implementation and showing functionality to user.
+
+                  can be achived using Interface and abstract class
+
+                  solves problems at design level
