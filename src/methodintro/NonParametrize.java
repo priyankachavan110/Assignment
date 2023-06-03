@@ -18,12 +18,8 @@ public class NonParametrize {
     		return "Adult";
     	}
     	return "child";
-     }
-     
-     
-     
-     
-	public static void main(String[] args) {
+     }       
+     	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		 age=17;
 		NonParametrize n1=new NonParametrize();
